@@ -6,6 +6,8 @@
 
 # AceBook
 
+Makers Academy Facebook clone project.
+
 [Try AceBook](https://acebook.makers-project.xyz)
 
 ## User Stories
